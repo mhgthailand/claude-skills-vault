@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+
+### Changed
+
+### Fixed
+
+## [1.0.2] - 2026-01-04
+
+### Added
 - **mcp-servers**: Add 35 MCP server configurations and references
   - Official active: everything, fetch, filesystem, memory, sequential-thinking, time
   - Official archived: git, slack, sqlite
@@ -21,8 +29,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - **commands**: Remove add-mcp command
 - **readme**: Add Contributing section
 - **readme**: Update with comprehensive MCP server documentation (35 servers, SDK references)
-
-### Fixed
 
 ## [1.0.1] - 2026-01-04
 
