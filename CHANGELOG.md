@@ -8,8 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+- **commands**: Add `/add-mcp` command integrating mcp-builder, md, and token-formatter skills
 
 ### Changed
+- **commands**: Add explicit invocation guards to commit.md and push.md (prevent auto-execution)
+- **readme**: Add Contributing section
 
 ### Fixed
 

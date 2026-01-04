@@ -1,5 +1,7 @@
 # Push Command
 
+**IMPORTANT: This command ONLY runs when explicitly invoked via `/push`. Do NOT auto-push after commits or modifications. Wait for user to explicitly run `/push`.**
+
 Goal: Safe git push with pre-push checks, commit integration, and changelog versioning.
 
 ## 1. Pre-Push Checks

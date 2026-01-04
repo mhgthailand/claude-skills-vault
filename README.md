@@ -57,6 +57,10 @@ git clone https://github.com/georgekhananaev/claude-skills-vault.git
 cp -r claude-skills-vault/.claude your-project/
 ```
 
+## Contributing
+
+Contributions are welcome! Feel free to submit pull requests with new skills, commands, or MCP servers.
+
 ## Credits
 
 Created by **George Khananaev**
