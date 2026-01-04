@@ -33,6 +33,7 @@ A curated collection of skills, commands, and MCP servers for Claude Code.
 | Command | Description |
 |---------|-------------|
 | `/commit` | Safe git commit with conventional commits format |
+| `/push` | Git push with uncommitted changes check and changelog versioning |
 
 ## MCP Servers
 

@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+- **commands**: Add push command with uncommitted changes check and changelog versioning
 - **skills**: Add mcp-builder skill with Python/Node reference docs and evaluation scripts
 - **skills**: Add toon skill for token-optimized JSON notation (~40% token reduction)
 - **commands**: Add comprehensive create-skill command with testing requirements
