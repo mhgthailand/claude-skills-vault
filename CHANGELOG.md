@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+
+### Changed
+
+### Fixed
+
+## [1.0.9] - 2026-01-10
+
+### Added
 - **skills**: Add prompt-compressor skill for 40-60% token reduction on verbose prompts with protected content preservation
 - **skills**: Add beautiful-code skill for multi-language code quality (TypeScript, Python, Go, Rust)
 - **skills**: Add materialreacttable-mastery skill for MUI V3 data tables with CRUD, virtualization, server-side ops
@@ -15,8 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Changed
 - **commands**: Compress plan-feature.md (~54% token reduction)
-
-### Fixed
 
 ## [1.0.8] - 2026-01-10
 
