@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+
+### Changed
+
+### Fixed
+
+## [1.0.6] - 2026-01-10
+
+### Added
 - **skills**: Add doc-navigator skill for efficient codebase documentation navigation
 - **skills**: Add ux-toolkit skill for comprehensive UX evaluation
 - **commands**: Add create-pr command for GitHub pull request creation
