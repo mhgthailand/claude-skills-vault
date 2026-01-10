@@ -8,8 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+- **skills**: Add prompt-compressor skill for 40-60% token reduction on verbose prompts with protected content preservation
 
 ### Changed
+- **commands**: Compress plan-feature.md (~54% token reduction)
 
 ### Fixed
 
