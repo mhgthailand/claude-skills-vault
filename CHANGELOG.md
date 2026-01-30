@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+- **skills**: Add semantic-colors skill for automated refactoring of hardcoded colors to semantic design tokens
 
 ### Changed
 
